@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astghik-jan
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Global Automated Foundation
+- 🌱 I’m currently learning Global Automated Testing Foundations
 - 💞️ I’m looking to collaborate on coding, testing...
 - 📫 How to reach me ...
 
